@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PopPickImage</string>
+
+    <string-array name="lang_name">
+        <item>C Programming Language</item>
+        <item>C++ Programming Language</item>
+        <item>C# Programming Language</item>
+        <item>Java Programming Language</item>
+        <item>Python Programming Language</item>
+        <item>Ruby Programming Language</item>
+        <item>JavaScript Programming Language</item>
+        <item>PHP Programming Language</item>
+        <item>Swift Programming Language</item>
+    </string-array>
+    <string name="c">
+        C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. You may need to use C when you are low on resources and dont need object oriented capabilities. Many softwares in use today are still written in C, not to mention hardware drivers. According to Tiobe index, C is still the most used language.
+    </string>
+    <string name="cplus">
+        C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes. C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible. You should choose a filename which reflects the purpose of the program. Step 2: Build the Executable Code: Compile and Link (aka Build) the source code  hello. cpp " into executable code ( hello.exe  in Windows or " hello " in UNIX/Linux/Mac). On IDE (such as CodeBlocks), push the "Build" button.
+    </string>
+    <string name="chash">
+        C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. C# is a modern, general-purpose programming language that can be used to perform a wide range of tasks and objectives that span over a variety of professions. C# is primarily used on the Windows . NET framework, although it can be applied to an open source platform. C# is perfect for beginners. Indeed its used as a the learning language to teach programming in many universities. You will learn one of the best programming language and the best IDE to boot to (Visual Studio).
+    </string>
+    <string name="java">
+        Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network. It can also be used to build a small application module or applet (a simply designed, small application) for use as part of a Web page. Simple: Java is a simple language because its syntax is simple, clean, and easy to understand. Complex and ambiguous concepts of C++ are either eliminated or re-implemented in Java. For example, pointer and operator overloading are not used in Java. Object-Oriented: In Java, everything is in the form of the object.
+    </string>
+    <string name="python">
+        Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991, Pythons design philosophy emphasizes code readability with its notable use of significant whitespace. Python is a general-purpose programming language, so it can be used for many things. Python is used for web development, AI, machine learning, operating systems, mobile application development, and video games. C++ has more syntax rules and other programming conventions, while Python aims to imitate the regular English language. When it comes to their use cases, Python is the leading language for machine learning and data analysis, and C++ is the best option for game development and large systems.
+    </string>
+    <string name="ruby">
+        Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro Matz Matsumoto in Japan. Ruby is dynamically typed and uses garbage collection. Ruby is most used for building web applications. However, it is a general-purpose language similar to Python, so it has many other applications like data analysis, prototyping, and proof of concepts. Probably the most obvious implementation of Ruby is Rails web, the development framework built with Ruby. Ruby is very easy to learn when compared to other programming languages. Its even easier to learn if you are already proficient in another language. The main reason is its readability and expressiveness.
+    </string>
+    <string name="javascript">
+        JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.Most likely, youll find your JavaScript editor of choice in Sublime Text, Visual Studio Code, or Brackets. But several other tools—Atom, BBEdit, Komodo Edit, Notepad++, Emacs, and Vim—all have something to recommend them. Depending on the task at hand, you might find any one of them handy to have around. JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+    </string>
+    <string name="php">
+        PHP is a general-purpose scripting language that is especially suited to web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group. PHP (recursive acronym for PHP: Hypertext Preprocessor ) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. PHP scripts can only be interpreted on a server that has PHP installed.
+    </string>
+    <string name="swift">
+        Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apples Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. Swift is a powerful and intuitive programming language developed by Apple. It is used to create apps for iOS, macOS, watchOS, and so on. Swift code is concise yet expressive (easier to understand and write). The Swift programming language was built to be efficient and easy to use. Swift uses a simple and expressive syntax that is easy to understand, even if you do not have any prior experience with coding. ... Its not just the simple syntax that makes Swift so easy to learn.
+    </string>
+</resources>
